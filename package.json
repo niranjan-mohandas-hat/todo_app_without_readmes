@@ -155,7 +155,7 @@
     "@angular/compiler-cli": "^19.2.10",
     "@angular/core": "^19.2.10",
     "@angular/forms": "^19.2.10",
-    "@angular/language-service": "^19.2.10",
+    "@angular/language-service": "^20.2.3",
     "@angular/material": "^19.2.8",
     "@angular/platform-browser": "^19.2.10",
     "@angular/platform-browser-dynamic": "^19.2.10",
